@@ -4,7 +4,7 @@ dApp for save our tasks in the blockchain
 
 
 Requirements:
-Ganache/n
-Metamask/n
-Lite-server (install whit the follow command: npm i lite-server)
+Ganache, 
+ Metamask,
+ Lite-server (install whit the follow command: npm i lite-server)
 
