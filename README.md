@@ -5,7 +5,6 @@ dApp for save our tasks in the blockchain
 ![Uploading Captura de Pantalla 2022-01-21 a la(s) 15.33.27.png…]()
 
 
-
 Requirements:
 Ganache, 
  Metamask,
