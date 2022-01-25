@@ -13,3 +13,5 @@ Ganache,
  Metamask,
  Lite-server (install whit the follow command: npm i lite-server)
 
+Blog en el que se detalla el funcionamiento del Smart Contract utilizado en este repositorio:
+$ https://bntzblog.hashnode.dev/dtasks
